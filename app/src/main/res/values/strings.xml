@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Prontuario</string>
+    <string name="app_about">Abaixo a sua lista de clientes para serem atendidos.</string>
+
+    <string name="txt_nome_paciente">Paciente selecionado</string>
+    <string name="txt_endereco">Endereço:</string>
+    <string name="txt_telefonecel">Telefone fixo:</string>
+    <string name="txt_telefone">Celular:</string>
+    <string name="txt_email">E-mail:</string>
+    <string name="txt_contatoemergencia">Contato de Emergência:</string>
+
+    <string name="btn_cadastrar">Atualizar informações</string>
+
+    <string name="action_settings">Ajustes</string>
+</resources>

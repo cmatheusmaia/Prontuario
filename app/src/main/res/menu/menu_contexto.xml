@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemRemover"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Encerrar atendimento"
+        android:showAsAction="ifRoom|withText">
+    </item>
+
+    <item
+        android:id="@+id/itemAlterar"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Alterar dados"
+        android:showAsAction="ifRoom|withText">
+    </item>
+
+    <item
+        android:id="@+id/itemLigar"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="Ligar p/ contato de emergência"
+        android:showAsAction="ifRoom|withText">
+
+    </item>
+
+    <item
+        android:id="@+id/itemSMS"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="Enviar SMS responsável"
+        android:showAsAction="ifRoom|withText">
+
+    </item>
+
+    <item
+        android:id="@+id/itemEmail"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="Enviar exames (Email)"
+        android:showAsAction="ifRoom|withText">
+
+    </item>
+
+    <item
+        android:id="@+id/itemDadosADD"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Adicionar dados extra"
+        android:showAsAction="ifRoom|withText">
+
+    </item>
+
+</menu>
